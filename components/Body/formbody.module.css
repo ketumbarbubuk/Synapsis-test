@@ -1,0 +1,67 @@
+.table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.table td,
+.table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.table th {
+  background-color: #000000;
+  text-align: left;
+}
+
+.table button{
+    padding: none;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    max-width: 400px;
+  }
+  
+  .label,
+  .input,
+  .select,
+  .textarea {
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .input,
+  .select,
+  .textarea {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .button {
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .button:hover {
+    background-color: #005ea6;
+  }
+
+.title{
+    padding: 8px;
+    display: flex;
+    align-items: center;
+}
