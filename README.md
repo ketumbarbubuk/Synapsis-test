@@ -1,3 +1,6 @@
+Author's Description:
+The code is far from complete. I've completed the CRUD actions with Next.js, but i can't figure how to fetch some datas from another API. The code is lacking of user interface and style, but i will finish it.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
